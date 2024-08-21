@@ -1,0 +1,9 @@
+O NPM é um package de configurações que traz dentro dele várias bibliotecas/lib que adicionam um infinidade de funcionalidades ao programa
+
+Para instalar o npm, basta abrir o terminal em branco e digitar: npm init -y
+
+Esse comando irá criar um arquivo package.json
+
+Instalando um prompt para receber os dados inseridos pelo usuário, digite no terminal: npm i prompt-sync 
+
+Para consultar o tipo de dado que está sendo recebido pode-se usar o comando typeof "nome da variavel"
