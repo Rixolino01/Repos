@@ -1,0 +1,20 @@
+Node / Javascript
+
+Aula: Typescript
+
+Typescript é um superset do Javascript aintenção é a redução de bugs durante a fase de produção, validando principalmente as informações do campo.
+
+O typescript é um transpilador de javascript, quer dizer ele converte o typescript para javascript
+
+Ele deve ser instalando como um depedência do projeto
+
+Deve se respeitar a sequência de criação de projetos:
+
+* npm i -y ->Cria o package.json
+* npm i -D typescript -> instalando o typescript
+* npx tsc --init -> inciciando o typescript
+* npx tsc -> inicia o transpilador typescript
+* npm i express -> instalando o express
+* npm i -D @types/express @types/node
+
+
