@@ -1,0 +1,1 @@
+# schema.prisma -> operações relacionadas ao BD devem ser realizadas aqui
